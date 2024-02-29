@@ -1,4 +1,4 @@
-# Nguyen Viet Phuong + 
+# Nguyen Huu Loc + 
 Web được viết theo mô hình MVC
 
 //Cách thức hoạt động của mô hình MVC:
